@@ -1,0 +1,12 @@
+# Interactuar con el sistema and database  
+supabase
+
+# Analsis de datos & Machine learning 
+Pandas 
+numpy 
+polars
+scikit-learn
+
+# Visualización 
+streamlit
+
