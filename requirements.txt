@@ -7,6 +7,7 @@ Pandas
 numpy 
 polars
 scikit-learn
+empiricaldist
 
 # Visualización 
 streamlit
