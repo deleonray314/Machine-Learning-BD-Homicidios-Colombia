@@ -1,3 +1,9 @@
+-- ¡IMPORTANTE!
+-- Este script debe correse junto con el docker compose ya solo será reconocido una vez.
+-- En caso de activar el docker compose antes de tener el sql-init, este deberá ejecutarse-
+-- directamente en la terminal 
+
+
 -- BASE DE DATOS --
 CREATE DATABASE IF NOT EXISTS homicidios_db;
 USE homicidios_db;
