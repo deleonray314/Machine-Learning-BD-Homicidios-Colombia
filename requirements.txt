@@ -2,10 +2,12 @@
 supabase
 
 # Analsis de datos & Machine learning 
+datetime
 Pandas 
 numpy 
 polars
 scikit-learn
+empiricaldist
 
 # Visualización 
 streamlit
