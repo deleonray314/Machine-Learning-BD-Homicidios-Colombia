@@ -1,5 +1,8 @@
 # Interactuar con el sistema and database  
 supabase
+request
+dotenv
+sqlalchemy
 
 # Analsis de datos & Machine learning 
 datetime
