@@ -1,8 +1,12 @@
 # Interactuar con el sistema and database  
 supabase
-request
+requests
 dotenv
 sqlalchemy
+mysql-connector-python
+
+# Fetch data 
+sodapy
 
 # Analsis de datos & Machine learning 
 datetime

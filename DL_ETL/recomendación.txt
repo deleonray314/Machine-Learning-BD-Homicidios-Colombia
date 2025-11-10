@@ -1,0 +1,3 @@
+Ejecuta tu script con el flag -m desde el directorio raíz del proyecto:
+
+python -m DL_ETL.run_all
