@@ -1,8 +1,8 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-from prophet import Prophet
-from prophet.plot import plot_plotly
+import streamlit as st  # Para visualización de proyectos de ML
+import pandas as pd # Para manipular datos
+import plotly.express as px # Para graficar datos
+from prophet import Prophet # Para realizar pronósticos de series temporales
+from prophet.plot import plot_plotly # Para método de visualización dentro de la biblioteca de pronósticos Prophet
 import matplotlib.pyplot as plt # Importar matplotlib para plot_components
 
 # =========================================================================

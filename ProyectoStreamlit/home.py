@@ -1,6 +1,6 @@
-import streamlit as st
-import pandas as pd
-import json
+import streamlit as st  # Para visualización de proyectos de ML
+import pandas as pd # Para manipular datos
+import json # Para crear el mapa
 import time # Para simular el tiempo de carga y mostrar un spinner
 
 # --- NOMBRES DE ARCHIVOS GLOBALES ---

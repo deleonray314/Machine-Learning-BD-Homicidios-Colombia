@@ -1,8 +1,8 @@
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import json
-import base64
+import streamlit as st  # Para visualización de proyectos de ML
+import pandas as pd # Para manipular datos
+import plotly.express as px # Para graficar datos
+import json # Para crear el mapa
+import base64   # convierte datos binarios en una cadena de caracteres de texto ASCII para transmitirlos de forma segura a través de sistemas que solo admiten texto, como el correo electrónico o HTTP
 
 # =========================================================================
 # 🚨 VERIFICACIÓN Y RECUPERACIÓN DE DATOS (CRÍTICO)
